@@ -78,7 +78,7 @@ def main():
 if __name__ == "__main__":
     main()
     fthanhhoa = pd.DataFrame(dict_data)
-    fthanhhoa.to_csv("tayninh.csv")
+    fthanhhoa.to_csv("thanhhoa.csv")
 
 
 
